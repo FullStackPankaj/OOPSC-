@@ -1,0 +1,11 @@
+E:\DotNetLearnings\Oops\Oops\bin\Debug\netcoreapp2.0\Oops.deps.json
+E:\DotNetLearnings\Oops\Oops\bin\Debug\netcoreapp2.0\Oops.runtimeconfig.json
+E:\DotNetLearnings\Oops\Oops\bin\Debug\netcoreapp2.0\Oops.runtimeconfig.dev.json
+E:\DotNetLearnings\Oops\Oops\bin\Debug\netcoreapp2.0\Oops.dll
+E:\DotNetLearnings\Oops\Oops\bin\Debug\netcoreapp2.0\Oops.pdb
+E:\DotNetLearnings\Oops\Oops\obj\Debug\netcoreapp2.0\Oops.csprojResolveAssemblyReference.cache
+E:\DotNetLearnings\Oops\Oops\obj\Debug\netcoreapp2.0\Oops.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\Oops\Oops\obj\Debug\netcoreapp2.0\Oops.AssemblyInfoInputs.cache
+E:\DotNetLearnings\Oops\Oops\obj\Debug\netcoreapp2.0\Oops.AssemblyInfo.cs
+E:\DotNetLearnings\Oops\Oops\obj\Debug\netcoreapp2.0\Oops.dll
+E:\DotNetLearnings\Oops\Oops\obj\Debug\netcoreapp2.0\Oops.pdb

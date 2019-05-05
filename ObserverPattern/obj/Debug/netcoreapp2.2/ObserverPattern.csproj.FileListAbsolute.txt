@@ -1,0 +1,9 @@
+E:\DotNetLearnings\Oops\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.deps.json
+E:\DotNetLearnings\Oops\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.dll
+E:\DotNetLearnings\Oops\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.pdb
+E:\DotNetLearnings\Oops\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.csprojResolveAssemblyReference.cache
+E:\DotNetLearnings\Oops\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\DotNetLearnings\Oops\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.AssemblyInfoInputs.cache
+E:\DotNetLearnings\Oops\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.AssemblyInfo.cs
+E:\DotNetLearnings\Oops\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.dll
+E:\DotNetLearnings\Oops\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.pdb
